@@ -37,7 +37,7 @@
                 </div>
             </div>
         </div>
-        
+
     </div>
     <div class="row match-height">
       <div class="col-xl-4 col-lg-12">
@@ -69,25 +69,25 @@
                         <div class="col-md-3 text-center pt-3" style="border-bottom: 1px solid darkgrey">
                             <button class="btn btn-outline-primary btn-sm"><span class="display-block">Index</span></button>
                             <br>
-                            <span class="display-block">{{ rand(200,500) }}</span>
+                            <span class="display-block">{{-- rand(200,500) --}}0</span>
                             <br>
                         </div>
                         <div class="col-md-3 text-center pt-3" style="border-bottom: 1px solid darkgrey">
                             <button class="btn btn-outline-amber btn-sm"><span class="display-block">Contents</span></button>
                             <br>
-                            <span class="display-block">{{ rand(200,500) }}</span>
+                            <span class="display-block">{{-- rand(200,500) --}}0</span>
                             <br>
                         </div>
                         <div class="col-md-3 text-center pt-3" style="border-bottom: 1px solid darkgrey">
                             <button class="btn btn-outline-green btn-sm"><span class="display-block">About</span></button>
                             <br>
-                            <span class="display-block">{{ rand(200,500) }}</span>
+                            <span class="display-block">{{-- rand(200,500) --}}0</span>
                             <br>
                         </div>
                         <div class="col-md-3 text-center pt-3" style="border-bottom: 1px solid darkgrey">
                             <button class="btn btn-outline-secondary btn-sm"><span class="display-block">Contact</span></button>
                             <br>
-                            <span class="display-block">{{ rand(200,300) }}</span>
+                            <span class="display-block">{{-- rand(200,500) --}}0</span>
                             <br>
                         </div>
                     </div>
